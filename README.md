@@ -1,2 +1,2 @@
 # formacao-data-science-alura
-Projeto de conclusão da Formação Data Science Alura
+Unfinished Data Science project based on Alura course. Useful for understanding how much I dug into Python, Jupyter Notebooks, data visualization and Pandas.
